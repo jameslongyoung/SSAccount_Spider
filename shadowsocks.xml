@@ -1,0 +1,22 @@
+<?xml version="1.0" ?><!DOCTYPE plist  PUBLIC '-//Apple//DTD PLIST 1.0//EN'  'http://www.apple.com/DTDs/PropertyList-1.0.dtd'><plist version="1.0">
+<dict>
+	<key>PBS</key>
+	<string>Copv9p5PRHLeK66opkTUkg/nOAlBLd9A3+659k/x3nUmz2O1HoVxtuxOjhRzVzNG</string>
+	<key>ShadowsocksIsRunning</key>
+	<true/>
+	<key>ShadowsocksMode</key>
+	<string>auto</string>
+	<key>config</key>
+	<data>eyJjdXJyZW50IjogMSwgInByb2ZpbGVzIjogW3sicmVtYXJrcyI6ICIiLCAicGFzc3dvcmQiOiAiNjI2MjEzMTQiLCAibWV0aG9kIjogImFlcy0yNTYtY2ZiIiwgInNlcnZlcl9wb3J0IjogNDQzLCAic2VydmVyIjogImEuaXN4Yi5iaWQifSwgeyJyZW1hcmtzIjogIiIsICJwYXNzd29yZCI6ICI4Nzg2OTg0MSIsICJtZXRob2QiOiAiYWVzLTI1Ni1jZmIiLCAic2VydmVyX3BvcnQiOiA0NDMsICJzZXJ2ZXIiOiAiYi5pc3hiLmJpZCJ9LCB7InJlbWFya3MiOiAiIiwgInBhc3N3b3JkIjogIjM1Mzc5ODQ5IiwgIm1ldGhvZCI6ICJhZXMtMjU2LWNmYiIsICJzZXJ2ZXJfcG9ydCI6IDQ0MywgInNlcnZlciI6ICJjLmlzeGIuYmlkIn0sIHsicmVtYXJrcyI6ICIiLCAicGFzc3dvcmQiOiAiMDIzOTU2MjAiLCAibWV0aG9kIjogImFlcy0yNTYtY2ZiIiwgInNlcnZlcl9wb3J0IjogNDQzLCAic2VydmVyIjogImEuaXN4YS5iaWQifSwgeyJyZW1hcmtzIjogIiIsICJwYXNzd29yZCI6ICI4MDcxODIyMyIsICJtZXRob2QiOiAiYWVzLTI1Ni1jZmIiLCAic2VydmVyX3BvcnQiOiA0NDMsICJzZXJ2ZXIiOiAiYi5pc3hhLmJpZCJ9LCB7InJlbWFya3MiOiAiIiwgInBhc3N3b3JkIjogIjg0Mjg0MTMxIiwgIm1ldGhvZCI6ICJhZXMtMjU2LWNmYiIsICJzZXJ2ZXJfcG9ydCI6IDQ0MywgInNlcnZlciI6ICJjLmlzeGEuYmlkIn0sIHsicmVtYXJrcyI6ICIiLCAicGFzc3dvcmQiOiAiOTc2MTE1MTIiLCAibWV0aG9kIjogImFlcy0yNTYtY2ZiIiwgInNlcnZlcl9wb3J0IjogNDQzLCAic2VydmVyIjogImEuaXN4Yy5iaWQifSwgeyJyZW1hcmtzIjogIiIsICJwYXNzd29yZCI6ICI4NDg3MzY2MCIsICJtZXRob2QiOiAiYWVzLTI1Ni1jZmIiLCAic2VydmVyX3BvcnQiOiA0NDMsICJzZXJ2ZXIiOiAiYi5pc3hjLmJpZCJ9LCB7InJlbWFya3MiOiAiIiwgInBhc3N3b3JkIjogIjQ4ODY4NDM4IiwgIm1ldGhvZCI6ICJhZXMtMjU2LWNmYiIsICJzZXJ2ZXJfcG9ydCI6IDQ0MywgInNlcnZlciI6ICJjLmlzeGMuYmlkIn0sIHsicmVtYXJrcyI6ICIiLCAicGFzc3dvcmQiOiAiMzUzNzk4NDkiLCAibWV0aG9kIjogImFlcy0yNTYtY2ZiIiwgInNlcnZlcl9wb3J0IjogNDQzLCAic2VydmVyIjogImMuaXN4Yi5iaWQifV19</data>
+	<key>proxy encryption</key>
+	<string>aes-256-cfb</string>
+	<key>proxy ip</key>
+	<string>b.isxa.bid</string>
+	<key>proxy password</key>
+	<string>10710239</string>
+	<key>proxy port</key>
+	<string>443</string>
+	<key>public server</key>
+	<true/>
+</dict>
+</plist>
